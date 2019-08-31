@@ -33,3 +33,6 @@ Software yang di butuhkan untuk soal 4 :
 Software yang di butuhkan untuk soal 5 : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
 - atau gunakan http://phptester.net/
+
+# Soal 6 
+![Capture Soal 6]()
