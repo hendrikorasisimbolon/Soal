@@ -14,4 +14,7 @@ Software yang di butuhkan untuk soal 1 :
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
 
 # Soal 2
+Software yang di butuhkan untuk soal 1 : 
+- XAMPP sebagai server web (Karena saya menggunakan php 5)
 
+# Soal 3
