@@ -28,3 +28,8 @@ Keterangan Jawaban soal3  :
 Software yang di butuhkan untuk soal 4 : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
 - atau gunakan http://phptester.net/
+
+# Soal 5
+Software yang di butuhkan untuk soal 5 : 
+- XAMPP sebagai server web (Karena saya menggunakan php 5)
+- atau gunakan http://phptester.net/
