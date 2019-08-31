@@ -35,4 +35,10 @@ Software yang di butuhkan untuk soal 5 :
 - atau gunakan http://phptester.net/
 
 # Soal 6 
-![Capture Soal 6](https://github.com/hendrikorasisimbolon/Soal/blob/master/Soal6/Capture.PNG)
+![Capture Soal 6](https://raw.githubusercontent.com/hendrikorasisimbolon/Soal/master/Soal6/Capture.PNG)
+
+Keterangan Jawaban soal6  : 
+- Soal ini saya kerjakan dengan PHP 5 tanpa library dan AJAX
+- Silahkan gunakan XAMPP atau server web lainnya 
+- Silahkan konfigurasi Database anda pada /api/config_db.php, dan Import database (/db/arkademy.sql) ke dalam database anda
+- Dibutuhkan koneksi internet untuk menjalankan program ini dikarenakan library AJAX, Bootstrap dan lainnya saya ambil langsung dari link library tersebut. 
