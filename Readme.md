@@ -35,4 +35,4 @@ Software yang di butuhkan untuk soal 5 :
 - atau gunakan http://phptester.net/
 
 # Soal 6 
-![Capture Soal 6]()
+![Capture Soal 6](https://github.com/hendrikorasisimbolon/Soal/blob/master/Soal6/Capture.PNG)
