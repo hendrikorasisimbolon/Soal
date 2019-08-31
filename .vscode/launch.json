@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/soal/soal2.php",
+            "url": "http://localhost/soal/soal3.php",
             "webRoot": "${workspaceFolder}"
         }
     ]

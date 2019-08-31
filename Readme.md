@@ -10,11 +10,18 @@ Kegunaan JSON : merupakan format pertukaran data yang ringan dan mudah di baca, 
 Kegunaan REST API : merupakan Api yg dibuat berjalan sebagai layanan web service. Mendukung permintaan request get dan post. Dan biasanya mengembalikan nilai return berupa json, kegunaanya :
 - sebagai layanan transfer data client dan server denggan menggunakan JSON 
 
-Software yang di butuhkan untuk soal 1 : 
+Software yang di butuhkan untuk soal 2 : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
+- atau gunakan http://phptester.net/
 
 # Soal 2
 Software yang di butuhkan untuk soal 1 : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
+- atau gunakan http://phptester.net/
 
 # Soal 3
+Keterangan Jawaban no.3  : 
+- XAMPP sebagai server web (Karena saya menggunakan php 5)
+- untuk tampilan input ada di dalam soal3.html dan akan di passing ke soal3.php untuk mendapatkan hasilnya
+
+# Soal 4 
