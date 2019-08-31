@@ -15,13 +15,16 @@ Software yang di butuhkan untuk soal 2 :
 - atau gunakan http://phptester.net/
 
 # Soal 2
-Software yang di butuhkan untuk soal 1 : 
+Software yang di butuhkan untuk soal 2 : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
 - atau gunakan http://phptester.net/
 
 # Soal 3
-Keterangan Jawaban no.3  : 
+Keterangan Jawaban soal3  : 
 - XAMPP sebagai server web (Karena saya menggunakan php 5)
 - untuk tampilan input ada di dalam soal3.html dan akan di passing ke soal3.php untuk mendapatkan hasilnya
 
 # Soal 4 
+Software yang di butuhkan untuk soal 4 : 
+- XAMPP sebagai server web (Karena saya menggunakan php 5)
+- atau gunakan http://phptester.net/
